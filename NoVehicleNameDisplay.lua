@@ -1,7 +1,7 @@
 -- ============================================================
 -- FS25_NoVehicleNameDisplay
 -- Version: 1.0.0.0
--- Autor: LimnedMoon
+-- Autor: LimnedMoonlight
 --
 -- Entfernt die Fahrzeugname-Einblendung beim Einsteigen.
 -- Removes the vehicle name popup on vehicle enter.
