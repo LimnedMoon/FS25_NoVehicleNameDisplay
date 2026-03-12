@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="106">
+	<author>LimnedMoon</author>
+	<version>1.0.0.0</version>
+
+	<title>
+		<en>No Vehicle Name Display</en>
+		<de>Kein Fahrzeugname-Einblendung</de>
+	</title>
+
+	<description>
+		<en><![CDATA[Removes the vehicle name notification that appears at the bottom of the screen when entering a vehicle.]]></en>
+		<de><![CDATA[Entfernt die Fahrzeugname-Einblendung, die beim Einsteigen in ein Fahrzeug unten auf dem Bildschirm erscheint.]]></de>
+	</description>
+
+	<iconFilename>icon.png</iconFilename>
+	<multiplayer supported="true"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="scripts/NoVehicleNameDisplay.lua"/>
+	</extraSourceFiles>
+
+</modDesc>
