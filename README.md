@@ -9,7 +9,7 @@ Entfernt die Fahrzeugname-Einblendung, die beim Einsteigen in ein Fahrzeug unten
 ## Tested on:
 Farming Simulator 25 / Version 1.16.0.3
 
-## Showcase
+## Showcase - Klick on the Thumbnail ;)
 
 [![Showcase Video](thumbnail.jpg)](https://www.youtube.com/watch?v=m6ryUij6HB8)
 
