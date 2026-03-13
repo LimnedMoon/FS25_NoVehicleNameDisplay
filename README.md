@@ -11,7 +11,7 @@ Farming Simulator 25 / Version 1.16.0.3
 
 ## Showcase
 
-[![Showcase Video](assets/preview.jpg)](https://www.youtube.com/watch?v=m6ryUij6HB8)
+[![Showcase Video](thumbnail_yt.png)](https://www.youtube.com/watch?v=m6ryUij6HB8)
 
 ## Screenshots:
 <a href="https://ibb.co/5xWzpjZf"><img src="https://i.ibb.co/tPMNj2RW/tractor-before.jpg" alt="tractor-before" border="0"></a>
