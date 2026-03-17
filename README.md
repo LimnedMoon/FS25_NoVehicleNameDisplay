@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/JR25qgkm/icon.png" alt="icon" border="0">
+<img src="https://i.ibb.co/qL95xn97/icon.png" alt="icon" border="0">
 
 ---
 
