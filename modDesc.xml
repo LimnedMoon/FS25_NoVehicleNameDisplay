@@ -9,9 +9,10 @@
 	</title>
 
 	<description>
-		<fr><![CDATA[Supprime la notification du nom du véhicule qui apparaît en bas de l'écran lorsque vous entrez dans un véhicule.]]></fr>
-		<en><![CDATA[Removes the vehicle name notification that appears at the bottom of the screen when entering a vehicle.]]></en>
-		<de><![CDATA[Entfernt die Fahrzeugname-Einblendung, die beim Einsteigen in ein Fahrzeug unten auf dem Bildschirm erscheint.]]></de>
+<en><![CDATA[Removes the vehicle name notification that appears at the bottom of the screen when entering a vehicle.
+Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay]]></en>
+<de><![CDATA[Entfernt die Fahrzeugname-Einblendung, die beim Einsteigen in ein Fahrzeug unten auf dem Bildschirm erscheint.
+Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay]]></de>
 	</description>
 
 	<iconFilename>icon.png</iconFilename>
