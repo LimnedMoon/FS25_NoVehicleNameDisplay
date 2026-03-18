@@ -5,14 +5,23 @@
 
 	<title>
 		<en>No Vehicle Name Display</en>
+		<fr>Aucun nom de vehicule n'apparait</fr>
 		<de>Kein Fahrzeugname-Einblendung</de>
 	</title>
 
 	<description>
 <en><![CDATA[Removes the vehicle name notification that appears at the bottom of the screen when entering a vehicle.
-Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay]]></en>
+
+Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay
+]]></en>
+<fr><![CDATA[Supprime la notification indiquant le nom du vehicule qui s'affiche en bas de l'ecran lorsque l'on monte a bord d'un vehicule.
+
+Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay
+]]></fr>
 <de><![CDATA[Entfernt die Fahrzeugname-Einblendung, die beim Einsteigen in ein Fahrzeug unten auf dem Bildschirm erscheint.
-Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay]]></de>
+
+Github-Link: https://github.com/LimnedMoon/FS25_NoVehicleNameDisplay
+]]></de>
 	</description>
 
 	<iconFilename>icon.png</iconFilename>
