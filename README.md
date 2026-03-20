@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/qL95xn97/icon.png" alt="icon" border="0">
 
+## Modhub-Link: [https://farming-simulator.com/mod.php?mod_id=309380&title=fs2025](https://www.farming-simulator.com/mod.php?mod_id=355989&title=fs2025)
 ---
 
 ## English Description:
